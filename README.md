@@ -1,2 +1,4 @@
 # Customer-Manager
-This is a Desktop GUI I created to help my dad manage his customers and income for his side business. It used Python and Sqlite3 to manage the databases
+This is a Desktop GUI I created through using Python's Tkinter library as well utilizing OOP principles to build and efficent UI.
+
+I developed this app for a T.V Servicing business, helping them track their customers.
